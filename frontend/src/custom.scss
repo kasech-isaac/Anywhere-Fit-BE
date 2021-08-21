@@ -1,0 +1,11 @@
+@import "bootstrap/scss/functions"; 
+@import "bootstrap/scss/variables";
+
+
+
+$theme-colors: (
+    "info": tomato,
+    "danger": teal
+);
+
+@import "~bootstrap/scss/bootstrap";
